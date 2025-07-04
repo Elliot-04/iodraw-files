@@ -10,8 +10,8 @@
         <mxCell id="0Goy-iG9T2bveu-vY6kF-3" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;SEXT&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="720" y="550" width="110" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="0Goy-iG9T2bveu-vY6kF-37" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;direction=north;" vertex="1" parent="1">
-          <mxGeometry x="240" y="80" width="40" height="90" as="geometry" />
+        <mxCell id="0Goy-iG9T2bveu-vY6kF-37" value="MUX&lt;div&gt;2_1&lt;/div&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="350" y="70" width="40" height="90" as="geometry" />
         </mxCell>
         <mxCell id="0Goy-iG9T2bveu-vY6kF-38" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="150" y="280" width="574" height="150.005" as="geometry" />
