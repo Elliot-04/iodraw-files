@@ -173,7 +173,8 @@
         </mxCell>
         <mxCell id="0Goy-iG9T2bveu-vY6kF-141" style="edgeStyle=elbowEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;endSize=8;" edge="1" parent="0Goy-iG9T2bveu-vY6kF-92" source="0Goy-iG9T2bveu-vY6kF-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-100" y="75" as="targetPoint" />
+            <mxPoint x="-60" y="-170" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0Goy-iG9T2bveu-vY6kF-3" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;SEXT&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="0Goy-iG9T2bveu-vY6kF-92">
