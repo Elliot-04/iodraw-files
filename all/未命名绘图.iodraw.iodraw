@@ -151,6 +151,12 @@
         <mxCell id="0Goy-iG9T2bveu-vY6kF-76" value="din" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;container=0;" vertex="1" parent="1">
           <mxGeometry x="710" y="610" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="0Goy-iG9T2bveu-vY6kF-77" value="ext" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;container=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="610" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0Goy-iG9T2bveu-vY6kF-78" value="rR1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;container=0;" vertex="1" parent="1">
+          <mxGeometry x="920" y="670" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
