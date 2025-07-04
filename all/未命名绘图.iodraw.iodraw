@@ -115,9 +115,9 @@
         </mxCell>
         <mxCell id="0Goy-iG9T2bveu-vY6kF-125" style="edgeStyle=elbowEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;endSize=8;" edge="1" parent="1" source="0Goy-iG9T2bveu-vY6kF-93">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1250" y="925" as="targetPoint" />
+            <mxPoint x="1250" y="790" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1070" y="980" />
+              <mxPoint x="1180" y="860" />
             </Array>
           </mxGeometry>
         </mxCell>
