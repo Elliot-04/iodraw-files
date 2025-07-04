@@ -40,17 +40,20 @@
         <mxCell id="0Goy-iG9T2bveu-vY6kF-20" value="inst" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="610" y="270" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0Goy-iG9T2bveu-vY6kF-16" value="rst" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="319" y="232" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="0Goy-iG9T2bveu-vY6kF-8" value="din" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="319" y="270" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="0Goy-iG9T2bveu-vY6kF-12" value="pc" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="390" y="270" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0Goy-iG9T2bveu-vY6kF-13" value="clk" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="355" y="317" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0Goy-iG9T2bveu-vY6kF-23" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="319" y="232" width="60" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="0Goy-iG9T2bveu-vY6kF-16" value="rst" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;" vertex="1" parent="0Goy-iG9T2bveu-vY6kF-23">
+          <mxGeometry width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0Goy-iG9T2bveu-vY6kF-8" value="din" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;" vertex="1" parent="0Goy-iG9T2bveu-vY6kF-23">
+          <mxGeometry y="38" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
