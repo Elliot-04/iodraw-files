@@ -226,9 +226,6 @@
         <mxCell id="0Goy-iG9T2bveu-vY6kF-116" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1430" y="510" width="114" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="0Goy-iG9T2bveu-vY6kF-105" value="ALU" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=none;direction=south;container=0;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.2,1,0,0,0],[0.3,0,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.7,0,0,0,0],[0.8,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];" vertex="1" parent="0Goy-iG9T2bveu-vY6kF-116">
-          <mxGeometry x="16" width="80" height="150" as="geometry" />
-        </mxCell>
         <mxCell id="0Goy-iG9T2bveu-vY6kF-106" value="" style="triangle;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;container=0;" vertex="1" parent="0Goy-iG9T2bveu-vY6kF-116">
           <mxGeometry x="16" y="60" width="20" height="30" as="geometry" />
         </mxCell>
@@ -263,7 +260,10 @@
           <mxGeometry x="53" y="90" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0Goy-iG9T2bveu-vY6kF-120" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;MUX&lt;/font&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;2_1&lt;/font&gt;&lt;/div&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="720" width="50" height="100" as="geometry" />
+          <mxGeometry x="1310" y="710" width="60" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="0Goy-iG9T2bveu-vY6kF-105" value="ALU" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=none;direction=south;container=0;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.2,1,0,0,0],[0.3,0,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.7,0,0,0,0],[0.8,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];" vertex="1" parent="1">
+          <mxGeometry x="1530" y="510" width="80" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
