@@ -211,7 +211,7 @@
         </mxCell>
         <mxCell id="0Goy-iG9T2bveu-vY6kF-96" style="edgeStyle=elbowEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;endSize=8;" edge="1" parent="1" source="0Goy-iG9T2bveu-vY6kF-93">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="830" y="830" as="targetPoint" />
+            <mxPoint x="750" y="830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0Goy-iG9T2bveu-vY6kF-93" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
