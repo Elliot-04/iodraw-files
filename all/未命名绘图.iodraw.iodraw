@@ -223,8 +223,8 @@
         <mxCell id="0Goy-iG9T2bveu-vY6kF-61" style="edgeStyle=none;shape=connector;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;endSize=8;" edge="1" parent="1" source="0Goy-iG9T2bveu-vY6kF-31" target="0Goy-iG9T2bveu-vY6kF-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0Goy-iG9T2bveu-vY6kF-105" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="720" width="120" height="60" as="geometry" />
+        <mxCell id="0Goy-iG9T2bveu-vY6kF-105" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="690" width="70" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
