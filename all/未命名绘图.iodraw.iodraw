@@ -382,9 +382,7 @@
         <mxCell id="0Goy-iG9T2bveu-vY6kF-162" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.525;entryY=0.775;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;endSize=8;" edge="1" parent="1" source="0Goy-iG9T2bveu-vY6kF-149" target="0Goy-iG9T2bveu-vY6kF-161">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1440" y="721" />
-              <mxPoint x="1440" y="750" />
-              <mxPoint x="1230" y="750" />
+              <mxPoint x="1230" y="721" />
             </Array>
           </mxGeometry>
         </mxCell>
