@@ -26,6 +26,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="234" y="-10" as="sourcePoint" />
             <mxPoint x="424" y="10" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="60" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="0Goy-iG9T2bveu-vY6kF-24" value="" style="group" vertex="1" connectable="0" parent="0Goy-iG9T2bveu-vY6kF-38">
@@ -99,18 +102,9 @@
         </mxCell>
         <mxCell id="0Goy-iG9T2bveu-vY6kF-43" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endSize=8;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="0Goy-iG9T2bveu-vY6kF-37">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="270" as="sourcePoint" />
+            <mxPoint x="530" y="130" as="sourcePoint" />
             <mxPoint x="550" y="190" as="targetPoint" />
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0Goy-iG9T2bveu-vY6kF-52" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endSize=8;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="590" y="230" as="sourcePoint" />
-            <mxPoint x="540" y="240" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="570" y="270" />
-            </Array>
           </mxGeometry>
         </mxCell>
       </root>
