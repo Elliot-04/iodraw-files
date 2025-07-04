@@ -76,11 +76,11 @@
         <mxCell id="0Goy-iG9T2bveu-vY6kF-31" value="PC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="100" y="232" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0Goy-iG9T2bveu-vY6kF-32" value="pc4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="0Goy-iG9T2bveu-vY6kF-32" value="br" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="100" y="269" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0Goy-iG9T2bveu-vY6kF-33" value="pc4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="120" y="300" width="60" height="30" as="geometry" />
+          <mxGeometry x="100" y="306" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0Goy-iG9T2bveu-vY6kF-34" value="op" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="110" y="330" width="60" height="30" as="geometry" />
