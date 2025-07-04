@@ -4,11 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <UserObject label="" tooltip="dd" id="0Goy-iG9T2bveu-vY6kF-1">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="780" y="310" width="120" height="190" as="geometry" />
-          </mxCell>
-        </UserObject>
+        <mxCell id="0Goy-iG9T2bveu-vY6kF-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="310" width="120" height="190" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
