@@ -22,13 +22,10 @@
             <mxPoint x="204" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0Goy-iG9T2bveu-vY6kF-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;endSize=8;endFill=1;" edge="1" parent="0Goy-iG9T2bveu-vY6kF-38" source="0Goy-iG9T2bveu-vY6kF-5" target="0Goy-iG9T2bveu-vY6kF-4">
+        <mxCell id="0Goy-iG9T2bveu-vY6kF-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;endSize=8;endFill=1;" edge="1" parent="0Goy-iG9T2bveu-vY6kF-38">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="234" y="-10" as="sourcePoint" />
-            <mxPoint x="424" y="10" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="400" y="120" />
-            </Array>
+            <mxPoint x="344" y="60.00000000000006" as="sourcePoint" />
+            <mxPoint x="454" y="60.00000000000006" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0Goy-iG9T2bveu-vY6kF-24" value="" style="group" vertex="1" connectable="0" parent="0Goy-iG9T2bveu-vY6kF-38">
