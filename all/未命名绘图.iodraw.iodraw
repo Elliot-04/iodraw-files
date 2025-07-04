@@ -550,6 +550,9 @@
             <mxPoint x="450" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="0Goy-iG9T2bveu-vY6kF-252" value="32" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;container=0;fontColor=#000000;" vertex="1" parent="0Goy-iG9T2bveu-vY6kF-214">
+          <mxGeometry x="410" y="465" width="60" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="0Goy-iG9T2bveu-vY6kF-218" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1380" y="260" width="260" height="290" as="geometry" />
         </mxCell>
@@ -669,9 +672,6 @@
         </mxCell>
         <mxCell id="0Goy-iG9T2bveu-vY6kF-249" value="4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;container=0;fontColor=#FF8000;" vertex="1" parent="1">
           <mxGeometry x="1443" y="1106" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="0Goy-iG9T2bveu-vY6kF-252" value="32" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;container=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="590" y="660" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
