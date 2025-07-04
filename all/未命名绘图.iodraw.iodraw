@@ -262,6 +262,9 @@
         <mxCell id="0Goy-iG9T2bveu-vY6kF-115" value="C" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="0Goy-iG9T2bveu-vY6kF-116">
           <mxGeometry x="53" y="90" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="0Goy-iG9T2bveu-vY6kF-117" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="1167.88" y="820" width="60" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
