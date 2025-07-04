@@ -628,6 +628,18 @@
             <mxPoint x="1130" y="1264" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="0Goy-iG9T2bveu-vY6kF-239" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FF8000;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endSize=8;curved=0;exitX=0.093;exitY=0.44;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1260" y="1284" as="sourcePoint" />
+            <mxPoint x="1280" y="1264" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0Goy-iG9T2bveu-vY6kF-240" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FF8000;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endSize=8;curved=0;exitX=0.093;exitY=0.44;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="840" y="980" as="sourcePoint" />
+            <mxPoint x="860" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
