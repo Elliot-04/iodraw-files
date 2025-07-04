@@ -43,10 +43,10 @@
         <mxCell id="0Goy-iG9T2bveu-vY6kF-16" value="rst" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="319" y="232" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0Goy-iG9T2bveu-vY6kF-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="0Goy-iG9T2bveu-vY6kF-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="0Goy-iG9T2bveu-vY6kF-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="330" y="200" as="sourcePoint" />
-            <mxPoint x="380" y="150" as="targetPoint" />
+            <mxPoint x="520" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
