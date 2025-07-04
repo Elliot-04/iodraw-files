@@ -229,10 +229,10 @@
         <mxCell id="0Goy-iG9T2bveu-vY6kF-106" value="" style="triangle;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="1400" y="750" width="20" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0Goy-iG9T2bveu-vY6kF-107" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endSize=8;curved=0;opacity=10;" edge="1" parent="1">
+        <mxCell id="0Goy-iG9T2bveu-vY6kF-107" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endSize=8;curved=0;opacity=30;strokeColor=#FFFFFF;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1399.74" y="780" as="sourcePoint" />
-            <mxPoint x="1399.74" y="750" as="targetPoint" />
+            <mxPoint x="1380" y="780" as="sourcePoint" />
+            <mxPoint x="1380" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
